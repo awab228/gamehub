@@ -3,7 +3,7 @@ import platfroms from "../data/platfroms";
 import apiClient from "../services/api-client";
 import { FetchResponse } from "../services/api-client"
 
-interface Platfrom {
+export interface Platfrom {
   id: number;
   name: string;
   slug: string;
