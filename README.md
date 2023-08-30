@@ -1,4 +1,4 @@
-# gamehub
+# GameHub
 
 A React Game Discovery webapp using Typescript + Vite it uses rawg.io API
 
