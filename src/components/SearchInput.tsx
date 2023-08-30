@@ -15,7 +15,7 @@ const SearchInput = () => {
         event.preventDefault();
         if (ref.current) {
           setSerachText(ref.current.value);
-          navigate("/");
+          navigate("/gamehub");
         }
       }}
     >
