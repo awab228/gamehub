@@ -14,7 +14,6 @@ const router = createBrowserRouter([
       { path: "games/:slug", element: <GameDetailPage /> },
     ],
   },
-  { path: "gamehub/games/:slug", element: <GameDetailPage /> }, //only for github pages,
 ]);
 
 export default router;
